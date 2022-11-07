@@ -1,0 +1,16 @@
+1.Which attributes comes in handy when borders have to be put between groups of columns instead of every column?-colgroup
+2. A CSS3 selector ………………….. is used to select interactive elements whose values are found within a range specified by the HTML5 min and max attributes.-in-range
+3.Which tag can be used to mark up a conversation in HTML5?-diaglog
+4.Which prefix do you need to get CSS3 properties to work on older Mozilla Firefox browsers?-webmoz-
+5.When using Flexbox, how do you call an element that is managed by a parent layout-defining element?-flex-container
+6. When using Flexbox, how do you call an element that manages layout of its children elements?-flex-item
+7. The following code is associated with animations. Which CSS rule replaces the word RULE?
+RULE fadeout {
+from { opacity: 1; }
+to { opacity: 0; }
+}
+-@keyframe
+8. What are the properties of the box model in order from inside to outside?-content,padding,border,margin
+
+9. Which selector is used to selects the element that is the first child of its parent that is of its type?-first-of-type selector
+10.You want to move an element 150 pixels from the left and 100 pixels from the top. Which css property you can use?-transform:translate(150px,100px)
